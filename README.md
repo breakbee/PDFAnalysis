@@ -5,6 +5,12 @@ Japanese PDF Analysis by LDA
 
 PDFファイルから日本語コーパスを作成し、LDAを用いて分析します。  
 
+**usage**
+```
+cd scripts
+sh analysis.sh
+```
+
 **require**:  
 Python(>3)  
 Java(>1.6)  
