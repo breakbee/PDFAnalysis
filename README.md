@@ -13,8 +13,8 @@ mecab
 
 **library & require files**  
 [Apache PDFBox (pdfbox-app-x.x.x.jar)](https://pdfbox.apache.org/)  
-[日本語ストップワード](http://svn.sourceforge.jp/svnroot/slothlib/CSharp/Version1/SlothLib/NLP/Filter/StopWord/word/Japanese.txt)  
-[英語ストップワード](http://svn.sourceforge.jp/svnroot/slothlib/CSharp/Version1/SlothLib/NLP/Filter/StopWord/word/English.txt)  
+[日本語ストップワード (Japanese.txt)](http://svn.sourceforge.jp/svnroot/slothlib/CSharp/Version1/SlothLib/NLP/Filter/StopWord/word/Japanese.txt)  
+[英語ストップワード (English.txt)](http://svn.sourceforge.jp/svnroot/slothlib/CSharp/Version1/SlothLib/NLP/Filter/StopWord/word/English.txt)  
 [LDA4J (lda4j.jar)](https://github.com/breakbee/LDA4J)
 
 次のようにディレクトリを構成してください。  
