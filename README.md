@@ -45,7 +45,8 @@ PDFAnalysis
 lda4j.jar と pdfbox-app-x.x.x.jar を jar ディレクトリに、  
 日本語と英語のストップワードを stopword ディレクトリに配置してください。  
 
-PDFBoxのバージョンに応じて extract_text.sh の pdfbox-app-x.x.x.jar を書き換えてください。(標準では1.8.6)  
+PDFBoxのバージョンに応じて extract_text.sh の pdfbox-app-x.x.x.jar を書き換えてください。  
+(標準では1.8.6)  
 
 corpus ディレクトリに日本語PDFファイルから作成したコーパスが、  
 results ディレクトリにLDAの結果が作成されます。  
